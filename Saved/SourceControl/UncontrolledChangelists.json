@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/chemb/OneDrive/Documents/Unreal Projects/GithubTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/chemb/OneDrive/Documents/Unreal Projects/GithubTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/chemb/OneDrive/Documents/GitHub/GithubTest/Content/BP_Hello.uasset",
+				"C:/Users/chemb/OneDrive/Documents/GitHub/GithubTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/7M/2XVDJNT0EDVYMI4UT7TS30.uasset"
 			]
 		}
 	]
